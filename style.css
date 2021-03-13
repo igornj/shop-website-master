@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+html{
+    background: url(./assets/background.jpg) no-repeat, center, center, fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 10% 60%;
+    min-width: 100%;/*pra se alinhar ao browser, ainda ta um pouco quebrado*/
+    min-height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style: none;
+}
+
+
+.logo{
+    display: inline-block;
+    background: #e67e34;
+    padding: 1.3rem 0.7rem;
+    margin-top: 0.4rem;
+    margin-left: 5.5rem;
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    transition: all .5s ease;
+    cursor: pointer;
+}
+
+.logo:hover{
+    background: black;
+    color: #e67e34;
+}
+
+.top-header{ /*Flex box para nav-row*/
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+
+.nav-row ul{
+    margin-top: 1.6rem;
+    margin-left: 80rem;
+}
+
+.nav-row li{
+    padding: 0 1rem;
+    font-size: 0.9rem;
+    transition: color 0.3s ease;
+}
+
+.nav-row a:hover{
+    color: #e67e34;
+}
+
+
+.nav-column ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 15rem;
+    margin-left: -100rem;
+    width: 100px; 
+    
+}
+
+.nav-column li{
+    padding: 0.5rem;
+    font-size: 0.9rem;
+    /*text-align: center; não tá funcionando com flex contanier*/
+    transition: color 0.3s ease;
+}
+
+.nav-column a:hover{
+    color: #e67e34;
+}
+
+.icon{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 10rem;
+}
+
+.icon img{
+    width: 1.8rem;
+    margin: 0.5rem;
+    padding: 0.4rem;
+}
+
+.nav-row ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: fixed;
+    margin-top: -21rem;
+    margin-left: 29rem;
+}
+
+.main-content-title{
+    color: #e67e34;
+    line-height: 0.9;
+    font-size: 3rem;
+    font-weight: 600;
+    letter-spacing: 0.4rem;
+    max-width: 200px;
+    margin-right: 50rem;
+}
+
+.main-content-subtitle-01{
+    margin-top: 1rem;
+    margin-right: 59rem;
+    font-size: 1rem;
+    font-weight: 700;  
+}
+
+.grey-box{
+    background: #ccc;
+    width: 68px;
+    height: 45px;
+    margin-top: 1rem;
+    margin-right: 62rem;
+    z-index: -1;
+}
+
+
+.main-content-subtitle-02{
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin-top: -1.8rem;
+    margin-right: 59rem;   
+}
+
+.arrow-icon{
+    width: 1rem;
+    margin-top: -1rem;
+    margin-right: 66.5rem;
+}
+
+.checkout-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

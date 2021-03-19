@@ -7,7 +7,7 @@
   <h3 align="center">Challenge Website made by <a href="https://www.linkedin.com/in/emmanuel-messias-535621127/">Emmanuel Messias</a></h3>
  <br />
  
- <h3 align="center">Challenge remade by <a href="https://www.linkedin.com/in/igornj/">Igor Nunes</a></h3>
+ <h3 align="center">Challenge remade by me <a href="https://www.linkedin.com/in/igornj/">Igor Nunes</a></h3>
  <br />
  
   <p align="center">

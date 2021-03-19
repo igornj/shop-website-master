@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-messias-535621127/">
+  <a href="https://shop-website-master.vercel.app">
     <img src="https://i.imgur.com/M4CsV6Q.png" alt="Logo" width="1000">
   </a>
 

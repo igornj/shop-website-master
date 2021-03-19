@@ -83,6 +83,10 @@ li{
     padding: 0.4rem;
 }
 
+.icon-socials img:hover{
+    filter: invert(66%) sepia(18%) saturate(7208%) hue-rotate(341deg) brightness(97%) contrast(85%);
+}
+
 
 .nav-row ul{
     display: flex;

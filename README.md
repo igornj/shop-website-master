@@ -1,25 +1,7 @@
-<br />
-<p align="center">
-  <a href="https://shop-website-master.vercel.app">
-    <img src="https://i.imgur.com/M4CsV6Q.png" alt="Logo" width="1000">
-  </a>
+# shop-website-master
+Challenge from: https://devchallenge.com.br/challenges
 
- <h3 align="center">Challenge remade by me <a href="https://www.linkedin.com/in/igornj/">Igor Nunes</a></h3>
- <br />
- 
-  <p align="center">
-    Site de loja de roupas e sapatos
-       <br />
-    <br />
-    <a href="https://github.com/devchallenge-io/shop-website">Desafio</a>
-    ·
-    <a href="https://devchallenge.now.sh/">DevChallenge</a>
-  </p>
-</p>
+VERCEL PREVIEW: https://shop-website-master-7790objjt-igornj.vercel.app
 
+![count2](https://user-images.githubusercontent.com/78692995/116793505-7e457280-aa9d-11eb-8233-c04da50da3c5.PNG)
 
-# Devchallenge
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
-
-
-Desafio criado por  <a href="https://www.linkedin.com/in/emmanuel-messias-535621127/">Emmanuel Messias</a> :)
